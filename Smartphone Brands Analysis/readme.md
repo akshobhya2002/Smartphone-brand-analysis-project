@@ -70,7 +70,3 @@ Cheapest: Samsung Galaxy A03 Core                           Cheapest: Vivo Y15s 
 <p>Costliest: Xiaomi 12 Pro (12GB RAM, 256GB)
 Cheapest: (Renewed)Mi Redmi Note 6 Pro</p></pre>
 <img src="images/Xiaomi .png" alt="xiaomi" width="500">
-
-## **Contributed by:**
-*Adithya Awati*<br>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-awati-87b7541a3/)
